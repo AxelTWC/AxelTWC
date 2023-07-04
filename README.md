@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AxelTWC , currently undergrad for honours co-op computer science
 - 👀 Interested in coding executatble applications
-- - 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited 
+- 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited 
 - 🌱 Knowledge: 
-        Currently Learning (University):
+-        Currently Learning (University):
            - Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS 
            - MongoDB | SpringBoot | SQL | Angular | Firestore | GraphQL | RESTful API | Arduino | MATLAB
         Learnt (High-School):
