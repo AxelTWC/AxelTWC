@@ -3,13 +3,13 @@
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited 
 - 🌱 Knowledge: 
   - Currently Learning (University):
--     - Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS 
-      - MongoDB | SpringBoot | SQL | Angular | Firestore | GraphQL | RESTful API | Arduino | MATLAB
+-     Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS 
+      MongoDB | SpringBoot | SQL | Angular | Firestore | GraphQL | RESTful API | Arduino | MATLAB
   - Learnt (High-School):
--     - C# | C | RobotC 
+-     C# | C | RobotC 
   - Side Hobby:
--           - Minecraft Server Development since 2015 ( Config Configuration + Private Spigot Plugin Development )
--           - Making games with C# 
+-     Minecraft Server Development since 2015 ( Config Configuration + Private Spigot Plugin Development )
+-     Making games with C# 
 - 📫 How to reach me :
       - Discord: AxelTWC#9859
       - Others: axeltwc | twcaxel 
