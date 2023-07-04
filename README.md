@@ -9,7 +9,7 @@
 -     C# | C | RobotC 
   - Side Hobby:
 -     Minecraft Server Development since 2015 ( Config Configuration + Private Spigot Plugin Development )
--     Making games with C# 
+      Making games with C# 
 - 📫 How to reach me :
       - Discord: AxelTWC#9859
       - Others: axeltwc | twcaxel 
