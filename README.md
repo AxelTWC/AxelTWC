@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AxelTWC , currently undergrad for honours co-op computer science
+- 👋 Hi, I’m @AxelTWC , Currently Undergrad in Honours Comp Sci
 - 👀 Interested in coding executatble applications
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited 
 - 🌱 Knowledge: 
