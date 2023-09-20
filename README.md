@@ -12,7 +12,7 @@
       Making games with C#
   - Known for:
 -     Founder | Owner | Developer of Humblex Minecraft Server
-      Developer for www.humblex.enjin.com (Abandoned) | www.humblex.com | Humblex Spigot Plugins (Using Java in Paper platform under Bukkit with Maven Build)
+      www.humblex.enjin.com (Abandoned) | www.humblex.com | Humblex Spigot Plugins (Using Java in Paper platform under Bukkit with Maven Build)
       Feel free to contact for any related issues
 - 📫 How to reach me :
       - Discord: AxelTWC#9859
