@@ -17,7 +17,7 @@
 - 📫 How to reach me :
   - Discord: AxelTWC
   - Others: axeltwc | twcaxel
-- 👨‍💻 Want to Work For Humblex?:
+- 👨‍💻 Want to Volunteer Work For Humblex?:
   - Contact Discord: AxelTWC
   - Others: axeltwc | twcaxel 
   - Current Opportunities:
