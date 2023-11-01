@@ -15,13 +15,16 @@
       www.humblex.enjin.com (Abandoned) | www.humblex.com | Humblex Spigot Plugins (Using Java in Paper platform under Bukkit with Maven Build)
       Feel free to contact for any related issues
 - 📫 How to reach me :
-      - Discord: AxelTWC#9859
-      - Others: axeltwc | twcaxel
+      Discord: AxelTWC#9859
+      | Others: axeltwc | twcaxel
 - 👨‍💻 Want to Work For Humblex?:
-      - Contact Discord: AxelTWC#9859
-      - Contact Others: axeltwc | twcaxel 
-      - Current Opportunities:
--     Enable Config Serialization for Armor Effects (Open Source & Pushing to SpigotMC) | Revamp Current FactionCapturePointPlugin (Private) | Adjustable BedRegeneration Config Serialization (Private) | Solving the Humblex-Unique-Survival-Faction System's Double Conflicter Message (Private + High Priority)
+      Contact Discord: AxelTWC#9859
+      | Others: axeltwc | twcaxel 
+      | Current Opportunities:
+-     Enable Config Serialization for Armor Effects (Open Source & Pushing to SpigotMC) 
+-     Revamp Current FactionCapturePointPlugin (Private) 
+-     Adjustable BedRegeneration Config Serialization (Private) 
+-     Solving the Humblex-Unique-Survival-Faction System's Double Conflicter Message (Private + High Priority)
 <!---
 AxelTWC/AxelTWC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
