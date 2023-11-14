@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AxelTWC , Currently Undergrad in Honours Comp Sci
-- 👀 Interested in coding executatble applications
+- 👀 Interested in coding executatble applications and small/lightweight spigot plugins.
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited 
 - 🌱 Knowledge: 
   - Currently Learning (University):
