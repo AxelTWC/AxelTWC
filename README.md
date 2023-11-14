@@ -21,9 +21,9 @@
   - Contact Discord: AxelTWC
   - Others: axeltwc | twcaxel 
   - Current Opportunities:
--     Enable Config Serialization for Armor Effects (Open Source & Pushing to SpigotMC) 
+-     Enable Config Serialization for Armor Effects (Refer to Issue in ArmorEffects Repo) 
 -     Revamp Current FactionCapturePointPlugin (Private) 
--     Adjustable BedRegeneration Config Serialization (Private) 
+-     Adjustable BedRegeneration Config Serialization (Refer to Issue in BedRegeneration Repo)
 -     Solving the Humblex-Unique-Survival-Faction System's Double Conflicter Message (Private + High Priority)
 <!---
 AxelTWC/AxelTWC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
