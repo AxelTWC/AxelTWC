@@ -21,13 +21,15 @@
   - Contact Discord: AxelTWC
   - Others: axeltwc | twcaxel 
   - Current Opportunities:
-  - ```js
+    ```js
          1. Enable Config Serialization for Armor Effects (Refer Issue in ArmorEffects Repo) 
          2. Revamp Current FactionCapturePointPlugin (Private) 
          3. Adjustable Config For BedRegeneration Serialization (Refer Issue in BedRegeneration Repo)
          4. Solving Humblex-Unique-Survival-Faction System Double Conflicter Message (Private + High Priority)
     ```
-
+    HyperLinks:
+    - [Issue 1](https://github.com/AxelTWC/ArmorEffects/issues)
+    - [Issue 3](https://github.com/AxelTWC/BedRegeneration/issues)
 <!---
 AxelTWC/AxelTWC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
