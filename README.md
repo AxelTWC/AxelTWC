@@ -18,7 +18,7 @@
     ```
   - Known for:
     ```js
-      Founder | Owner | Developer of Humblex Minecraft Server
+      ( Founder | Owner | Developer ) of Humblex Minecraft Server
       www.humblex.enjin.com (Abandoned) | www.humblex.com | Humblex Spigot Plugins (Using Java in Paper platform under Bukkit with Maven Build)
     ```
 - 📫 How to reach me :
