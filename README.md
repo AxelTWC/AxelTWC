@@ -25,8 +25,7 @@
   - Discord: AxelTWC
   - Others: axeltwc | twcaxel
 - 👨‍💻 Want to Volunteer Work For Humblex?:
-  - Contact Discord: AxelTWC
-  - Others: axeltwc | twcaxel 
+  - www.humblex.com
   - Current Opportunities:
     ```js
          1. Enable Config Serialization for Armor Effects (Refer Issue in ArmorEffects Repo) 
