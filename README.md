@@ -13,13 +13,9 @@
     ```
   - Side Hobby:
     ```js
-      Minecraft Server Development since 2015 ( Config Configuration + Private Spigot Plugin Development w/ Java  )
+      Minecraft Server Development since 2015 ( Config Configuration + Archtecture)
+      Private Spigot Plugin Development ( Using Java in Paper platform under Bukkit with Maven Build )
       Making Games with C#
-    ```
-  - Known for:
-    ```js
-      ( Founder | Owner | Developer ) of Humblex Minecraft Server
-      www.humblex.enjin.com (Abandoned) | www.humblex.com | Humblex Spigot Plugins (Using Java in Paper platform under Bukkit with Maven Build)
     ```
 - 📫 Proud Personal/Contributed Projects :
   - Umple Software Developer (Enhancement to UMPLE with small incremental improvements + Creating Window Developer tools): [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC) | [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
