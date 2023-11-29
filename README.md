@@ -28,6 +28,10 @@
     - [2D AimTrainer](https://github.com/AxelTWC/Side-Project---AimTrainer-Funny-version-)
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
     - [MathQuiz](https://github.com/AxelTWC/C---mathQuiz)
+  - Smaller Contribution & Projects worked on:
+    - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp)
+    - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects)
+    - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration)
 - 👨‍💻 Want to Volunteer Work For Humblex?:
   - www.humblex.com
   - Current Opportunities:
