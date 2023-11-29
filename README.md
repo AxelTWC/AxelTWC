@@ -23,7 +23,7 @@
   - Website Projects:
     - Front-End Design | Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
     - Front-End Design | Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
-    - Back-End Design | Link: [eHotelWebApp](https://github.com/aghar11/CSI2132-eHotelsWebApp)
+    - Back-End Design  | Source Code: [eHotelWebApp](https://github.com/aghar11/CSI2132-eHotelsWebApp)
   - C# Projects:
     - [2D AimTrainer](https://github.com/AxelTWC/Side-Project---AimTrainer-Funny-version-)
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
