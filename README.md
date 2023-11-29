@@ -21,9 +21,16 @@
       ( Founder | Owner | Developer ) of Humblex Minecraft Server
       www.humblex.enjin.com (Abandoned) | www.humblex.com | Humblex Spigot Plugins (Using Java in Paper platform under Bukkit with Maven Build)
     ```
-- 📫 How to reach me :
-  - Discord: AxelTWC
-  - Others: axeltwc | twcaxel
+- 📫 Proud Personal/Contributed Projects :
+  - Umple Software Developer (Enhancement to UMPLE with small incremental improvements + Creating Window Developer tools): [Umple Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC)
+  - Minecraft Server Owner with plugin experiment and development (Serving Publicly with 10k-50k Players Over Span of 7 years): [Humblex: Phoenix Edition - Coming Soon](www.humblex.com)
+  - Website Projects:
+    - Link: [uODentistry](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
+    - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
+  - C# Projects:
+    - [2D AimTrainer](https://github.com/AxelTWC/Side-Project---AimTrainer-Funny-version-)
+    - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
+    - [MathQuiz](https://github.com/AxelTWC/C---mathQuiz)
 - 👨‍💻 Want to Volunteer Work For Humblex?:
   - www.humblex.com
   - Current Opportunities:
