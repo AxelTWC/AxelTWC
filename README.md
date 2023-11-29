@@ -22,7 +22,7 @@
       www.humblex.enjin.com (Abandoned) | www.humblex.com | Humblex Spigot Plugins (Using Java in Paper platform under Bukkit with Maven Build)
     ```
 - 📫 Proud Personal/Contributed Projects :
-  - Umple Software Developer (Enhancement to UMPLE with small incremental improvements + Creating Window Developer tools): [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC)
+  - Umple Software Developer (Enhancement to UMPLE with small incremental improvements + Creating Window Developer tools): [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC) | [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
   - Minecraft Server Owner with plugin experiment and development (Serving Publicly with 10k-50k Players Over Span of 7 years): [Humblex: Phoenix Edition - Coming Soon](www.humblex.com)
   - Website Projects:
     - Link: [uODentistry](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
