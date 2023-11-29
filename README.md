@@ -40,7 +40,8 @@
          3. Adjustable Config For BedRegeneration Serialization (Refer Issue in BedRegeneration Repo)
          4. Solving Humblex-Unique-Survival-Faction System Double Conflicter Message (Private + High Priority)
     ```
-    HyperLinks:
+    HyperLink to Issues for Humblex Plugin Development:
+    - Thank You For Contribution :) !
     - [Issue 1](https://github.com/AxelTWC/ArmorEffects/issues)
     - [Issue 3](https://github.com/AxelTWC/BedRegeneration/issues)
 <!---
