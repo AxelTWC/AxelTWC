@@ -29,7 +29,7 @@
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
     - [MathQuiz](https://github.com/AxelTWC/C---mathQuiz)
   - Smaller Contribution & Projects worked on:
-    - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp)
+    - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp) | Mostly on UML Diagrams and Validation
     - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects)
     - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration)
 - 👨‍💻 Want to Volunteer Work For Humblex?:
