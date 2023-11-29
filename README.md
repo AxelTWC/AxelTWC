@@ -28,7 +28,7 @@
     - [2D AimTrainer](https://github.com/AxelTWC/Side-Project---AimTrainer-Funny-version-)
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
     - [MathQuiz](https://github.com/AxelTWC/C---mathQuiz)
-  - Smaller Contribution & Projects worked on:
+  - Smaller Contributions & Projects worked on:
     - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp) | Mostly on UML Diagrams and Validation
     - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects)
     - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration)
