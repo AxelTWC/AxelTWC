@@ -21,9 +21,9 @@
   - Umple Software Developer (Enhancement to UMPLE with small incremental improvements + Creating Window Developer tools): [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC) | [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
   - Minecraft Server Owner with plugin experiment and development (Serving Publicly with 10k-50k Players Over Span of 7 years): [Humblex: Phoenix Edition - Coming Soon](www.humblex.com)
   - Website Projects:
-    - Front-End Design | Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
-    - Front-End Design | Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
-    - Back-End Design  | Source Code: [eHotelWebApp](https://github.com/aghar11/CSI2132-eHotelsWebApp)
+    - Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
+    - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
+    - Back End Source Code: [eHotelWebApp](https://github.com/aghar11/CSI2132-eHotelsWebApp)
   - C# Projects:
     - [2D AimTrainer](https://github.com/AxelTWC/Side-Project---AimTrainer-Funny-version-)
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
