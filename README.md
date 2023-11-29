@@ -4,12 +4,12 @@
 - 🌱 Knowledge: 
   - Currently Learning (University):
      ```css
-      Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS 
+      Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS | PostgreSQL | graphQL
       MongoDB | SpringBoot | SQL | Angular | Firestore | GraphQL | RESTful API | Arduino | MATLAB
      
   - Learnt (High-School):
     ```css
-     C# | C | RobotC
+     C# | C | RobotC | HTML + CSS
     ```
   - Side Hobby:
     ```js
