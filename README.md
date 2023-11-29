@@ -4,7 +4,7 @@
 - 🌱 Knowledge: 
   - Currently Learning (University):
      ```css
-      Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS | PostgreSQL | graphQL
+      Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS | PostgreSQL
       MongoDB | SpringBoot | SQL | Angular | Firestore | GraphQL | RESTful API | Arduino | MATLAB
      
   - Learnt (High-School):
