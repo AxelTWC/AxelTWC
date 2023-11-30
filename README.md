@@ -18,8 +18,19 @@
       Making Games with C#
     ```
 - 📫 Proud Personal/Contributed Projects :
-  - Umple Software Developer (Enhancement to UMPLE with small incremental improvements + Creating Window Developer tools): [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC) | [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
-  - Minecraft Server Owner with plugin experiment and development (Serving Publicly with 10k-50k Players Over Span of 7 years): [Humblex: Phoenix Edition - Coming Soon](www.humblex.com) | [@Video_Trailer](https://www.youtube.com/watch?v=CWIEHURiz9s)
+  - Umple Software Engineer (Enhancement to UMPLE with small incremental improvements + Creating Windows Developer Tools):
+    [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC) | [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
+    - Resolving a medium difficulty bug (Indicate Extraneous Brackets: Detect and Reveal Warning Message + Allow More Code after it) In the Online IDE version (UmpleOnline) and Compiler of UMPLE
+    - Participated in displayColor assignment bug and allow correct formatting
+    - Creating new Windows Integration Tools for future developers with batch files
+  - Minecraft Server Owner with plugin experiment and development (Serving Publicly with 10k-50k Players Over Span of 7 years):
+    - Role:
+      - Developing the Foundation and Architect Infrastructure of the server
+      - Managing a small team and delegate talents
+      - Advertisement and Main Video Editor
+    - Links:
+      - [Humblex: Phoenix Edition - Coming Soon](www.humblex.com)
+      - [@Video_Trailer](https://www.youtube.com/watch?v=CWIEHURiz9s)
   - Website Projects:
     - Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
     - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
@@ -29,9 +40,9 @@
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
     - [MathQuiz](https://github.com/AxelTWC/C---mathQuiz)
   - Smaller Contributions & Projects worked on:
-    - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp) | Mostly on UML Diagrams and Validation
     - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects)
     - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration)
+    - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp) | Mostly on UML Diagrams and Validation
 - 👨‍💻 Want to Volunteer Work For Humblex?:
   - www.humblex.com
   - Current Opportunities:
