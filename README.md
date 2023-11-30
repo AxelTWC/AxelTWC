@@ -25,13 +25,13 @@
       Making Games with C#
     ```
 - 📫 Proud Personal/Contributed Projects :
-  - Honours Project | Umple Software Engineer (Enhancement to UMPLE with small incremental improvements):
+  - Honours Project | Umple Software Engineer/Contributor (Enhancement to UMPLE with small incremental improvements):
     - Role: 
       - Resolving a medium difficulty bug (Indicate all Extraneous Brackets: Detect and Warn + Allow Continuous Input Code) In the Online IDE version (UmpleOnline) and Compiler of UMPLE
       - Participated in displayColor assignment bug and allow correct formatting
       - Creating new Windows Integration Tools for future developers with batch files
     - Links:
-      - [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC)
+      - [My Current Umple Assigned Tasks](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC)
       - [@License](https://github.com/umple/umple/blob/master/LICENSE.md) 
   - Minecraft Server Owner | Core Development + Plugin Configurator (Serving Publicly with 10k-50k Players Over Span of 7 years):
     - Role:
