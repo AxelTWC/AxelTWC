@@ -26,7 +26,7 @@
     - Links:
       - [Umple Software Developer/Contributor](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC)
       - [@License](https://github.com/umple/umple/blob/master/LICENSE.md) 
-  - Minecraft Server Owner | Core + Plugin experiment and development (Serving Publicly with 10k-50k Players Over Span of 7 years):
+  - Minecraft Server Owner | Core Development + Plugin Configurator (Serving Publicly with 10k-50k Players Over Span of 7 years):
     - Role:
       - Developing the Foundation and Architect Infrastructure of the server
       - Managing a small team and delegate talents
