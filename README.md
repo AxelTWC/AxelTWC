@@ -20,7 +20,7 @@
 - 📫 Proud Personal/Contributed Projects :
   - Honours Project | Umple Software Engineer (Enhancement to UMPLE with small incremental improvements):
     - Role: 
-      - Resolving a medium difficulty bug (Indicate Extraneous Brackets: Detect and Warn + Allow More Code after it) In the Online IDE version (UmpleOnline) and Compiler of UMPLE
+      - Resolving a medium difficulty bug (Indicate Extraneous Brackets: Detect and Warn + Allow Continuous Code) In the Online IDE version (UmpleOnline) and Compiler of UMPLE
       - Participated in displayColor assignment bug and allow correct formatting
       - Creating new Windows Integration Tools for future developers with batch files
     - Links:
