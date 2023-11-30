@@ -4,8 +4,15 @@
 - 🌱 Knowledge: 
   - Currently Learning (University):
      ```css
-      Python | Java | Kolin | Angular | React | Node.js | HTML_CSS_JS | PostgreSQL
-      MongoDB | SpringBoot | SQL | Angular | Firestore | GraphQL | RESTful API | Arduino | MATLAB
+     Mains in LightBlue
+      - Langs or relevant:
+          Java | Python
+          Kotlin | HTML_CSS_JS | React | Nodejs | Angular | Postgresql
+          MongoDB | SpringBoot | SQL | Firestore | GraphQL | RESTful API | Arduino | MATLAB
+      - QA lang or tools:
+          Junit
+          Selenium | JMH | JaCoCo IntelliJ Code Coverage | PitTest | EasyMocks | DBVisualizer
+     ```
      
   - Learnt (High-School):
     ```css
