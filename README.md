@@ -37,7 +37,7 @@
     - Role:
       - Developing the Foundation and Architect Infrastructure of the server
       - Managing a small team and delegate talents
-      - Advertisement and Main Video Editor
+      - Advertisement , Video Editor and Scaling server for profitability
     - Links:
       - [Humblex: Phoenix Edition - Coming Soon](www.humblex.com)
       - [@Video_Trailer](https://www.youtube.com/watch?v=CWIEHURiz9s)
