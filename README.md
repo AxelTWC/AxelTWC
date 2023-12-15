@@ -4,7 +4,7 @@
 - 🌱 Knowledge: 
   - Currently Learning (University):
      ```css
-     Mains in LightBlue
+     Mainly development in BLUE
       - Langs or relevant:
           Java | Python
           Kotlin | HTML_CSS_JS | React | Nodejs | Angular | Postgresql | MongoDB
