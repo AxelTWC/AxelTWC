@@ -31,7 +31,7 @@
       - Participated in displayColor assignment bug and allow correct formatting
       - Creating new Windows Integration Tools for future developers with batch files
     - Links:
-      - [My Current Umple Assigned Tasks](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC+sort%3Acreated-asc)
+      - [My Current Umple Assigned Tasks <-- Click here to view my contributions](https://github.com/umple/umple/issues?q=assignee%3AAxelTWC+sort%3Acreated-asc)
       - [@License](https://github.com/umple/umple/blob/master/LICENSE.md) 
   - *Minecraft Server Owner | Core Development + Plugin Configurator (Serving Publicly with 10-50k Players Over Span of 7 years):
     - Role:
