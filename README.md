@@ -14,7 +14,7 @@
           Selenium | JMH | JaCoCo IntelliJ Code Coverage | PitTest | EasyMocks | DBVisualizer
      ```
      
-  - Learnt in professional manner(High-School):
+  - Learnt in professional manner (High-School):
     ```css
      C# | C | RobotC | HTML + CSS
     ```
