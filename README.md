@@ -2,7 +2,7 @@
 - 👀 Interested in coding executatble applications and small/lightweight spigot plugins.
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited 
 - 🌱 Knowledge: 
-  - Currently Learning (University):
+  - Currently Learning in professional manner (University):
      ```css
      Mainly development in BLUE
       - Langs or relevant:
@@ -14,7 +14,7 @@
           Selenium | JMH | JaCoCo IntelliJ Code Coverage | PitTest | EasyMocks | DBVisualizer
      ```
      
-  - Learnt (High-School):
+  - Learnt in professional manner(High-School):
     ```css
      C# | C | RobotC | HTML + CSS
     ```
