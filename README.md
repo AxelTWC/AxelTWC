@@ -8,7 +8,7 @@
       - Langs or relevant:
           Java | Python
           Kotlin | HTML_CSS_JS | React | Nodejs | Angular | Postgresql | MongoDB
-          SpringBoot | SQL | Firestore | GraphQL | RESTful API | Arduino | MATLAB | Racket-Scheme | Prolog
+          SpringBoot | SQL | Firestore | GraphQL | RESTful API | Arduino | MATLAB | Racket-Scheme | Prolog | GoLang
       - QA lang or tools:
           Junit
           Selenium | JMH | JaCoCo IntelliJ Code Coverage | PitTest | EasyMocks | DBVisualizer
