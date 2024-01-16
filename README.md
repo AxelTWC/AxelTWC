@@ -26,16 +26,17 @@
     ```
 - 📫 Proud Personal/Contributed Projects :
   - *Honours Project | Umple Software Engineer/Contributor (Enhancement to UMPLE with small incremental improvements):
-    - Description: Umple is an innovative programming language developed by Timothy Lethbridge to bridge the gap between modelling and programming, addressing challenges often faced in model-driven development.   Used by over 1.77 million users and executed over 11 million lines, was listed originally in UCOSAP and cooperated with many American Universities. I was interested in the continuation and development for Umple's Compiler and its webpage interface UmpleOnline, engineering for new solutions, participated in fixing crucial bugs and created new tools for future windows developers.  
     - Role: 
       - Resolving a medium difficulty bug (Indicate all Extraneous Brackets: Detect and Warn + Allow Continuous Input Code) In the Online IDE version (UmpleOnline) and Compiler of UMPLE
       - Participated in displayColor assignment bug and allow correct formatting
       - Creating new Windows Integration Tools for future developers with batch files
     - Links:
       - [Umple Assigned Tasks <-- Click here to view my contributions](https://github.com/umple/umple/issues?q=involves%3AAxelTWC+sort%3Acreated-asc+)
-      - [@License](https://github.com/umple/umple/blob/master/LICENSE.md) 
+      - [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
+    - Description:
+      - Umple is an innovative programming language developed by Timothy Lethbridge to bridge the gap between modelling and programming, addressing challenges often faced in model-driven development. Used by over 1.77 million users and executed over 11 million lines, was listed originally in UCOSP and cooperated with many American Universities. I was interested in the continuation and development for Umple's Compiler and its webpage interface UmpleOnline, engineering for new solutions in large scale softwares, participated in fixing crucial bugs and created new tools for future windows developers.
+   
   - *Minecraft Server Owner | Core Development + Plugin Configurator (Serving Publicly with 10-50k Players Over Span of 7 years):
-    - Description: A Side Project/Hustle that I've been doing for years and got me into development. At 14 y.o , from trying to reuniting communities from other servers to learning how to manage and balance server loads, earning profitable revenue and gaining attraction from interational demographic (having approximately 400-500k views on Youtube Tutorials joining servers) and allow everyone to have an enjoyable and unique experience.
     - Role:
       - Developing the Foundation and Architect Infrastructure of the server
       - Managing a small team and delegate talents
@@ -44,6 +45,8 @@
       - [Humblex: Phoenix Edition - Coming Soon](www.humblex.com)
       - [@Video_Trailer](https://www.youtube.com/watch?v=CWIEHURiz9s)
       - [Old Enjin Website](https://web.archive.org/web/20230425232005/https://humblex.enjin.com/members)
+    - Description:
+      - A Side Project/Hustle that I've been doing for years and got me into development. At 14 y.o , from trying to reuniting communities from other servers to learning how to manage and balance server loads, earning profitable revenue and gaining attraction from interational demographic (having approximately 400-500k views on Youtube Tutorials joining servers) and allow everyone to have an enjoyable and unique experience.
   - Website Projects:
     - Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
     - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
