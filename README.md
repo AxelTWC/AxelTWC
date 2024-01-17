@@ -46,7 +46,7 @@
       - [@Video_Trailer](https://www.youtube.com/watch?v=CWIEHURiz9s)
       - [Old Enjin Website](https://web.archive.org/web/20230425232005/https://humblex.enjin.com/members)
     - Description:
-      - A Side Project/Hustle that I've been doing for years and got me into development. At 14 y.o , from trying to reuniting communities from other servers to learning how to manage and balance server loads, earning profitable revenue and gaining attraction from interational demographic (having approximately 400-500k views on Youtube Tutorials joining servers) and allow everyone to have an enjoyable and unique experience.
+      - A Side Project/Hustle that I've been doing for years and got me into development. At 14 y.o , from trying to reuniting communities from other servers to learning how to manage and balance server loads, earning profitable revenue, gaining attraction with wide interational demographics and allow everyone to have an enjoyable and unique experience. Coordinating light-weight/lag-free services for as much players as possible (With approximately 5k unique players per version | 15+ versions from 2015-2024 & having approximately 400-500k views on Youtube Tutorials On Joining Minecraft Servers and indirect advertisement)
   - Website Projects:
     - Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
     - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
@@ -63,10 +63,11 @@
   - www.humblex.com
   - Current Opportunities:
     ```js
-         1. Enable Config Serialization for Armor Effects (Refer Issue in ArmorEffects Repo) 
+         1. Enable Config Serialization for Armor Effects (Refer Issue in ArmorEffects Repo + Release to https://www.spigotmc.org/resources/ once finalized) 
          2. Revamp Current FactionCapturePointPlugin (Private) 
          3. Adjustable Config For BedRegeneration Serialization (Refer Issue in BedRegeneration Repo)
          4. Solving Humblex-Unique-Survival-Faction System Double Conflicter Message (Private + High Priority)
+         5. Enable Config Serialization for Humblex Chunk Visualization (Private + Release to https://www.spigotmc.org/resources/ once finalized) 
     ```
     HyperLink to Issues for Humblex Plugin Development:
     - Thank You For Contribution :) !
