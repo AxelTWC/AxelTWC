@@ -42,7 +42,7 @@
       - Managing a small team and delegate talents
       - Advertisement , Video Editor and Scaling server for profitability
     - Links:
-      - [Humblex: Phoenix Edition - Coming Soon](https://humblexmc.github.io/)
+      - [Humblex: Phoenix Edition - Coming Soon](https://humblex.net)
       - [@Video_Trailer](https://www.youtube.com/watch?v=CWIEHURiz9s)
       - [Old Enjin Website](https://web.archive.org/web/20230425232005/https://humblex.enjin.com/members)
     - Description:
