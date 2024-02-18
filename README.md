@@ -61,8 +61,8 @@
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
     - [MathQuiz](https://github.com/AxelTWC/C---mathQuiz)
   - Smaller Contributions & LightWeight Projects worked on:
-    - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects)
-    - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration)
+    - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects) | Open Source Humblex Plugin
+    - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration) | Open Source Humblex Plugin
     - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp) | Mostly on UML Diagrams and Validation
     - Golang,Scheme,Prolog [Projects](https://github.com/AxelTWC/GoLangSchemeProlog)
     - AI Projects ( Include Later ) <-- Python Based
