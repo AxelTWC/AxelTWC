@@ -48,8 +48,8 @@
     - Description:
       - A Side Project/Hustle that I've been doing for years and got me into development. At 14 y.o , from trying to reuniting communities from other servers to learning how to manage and balance server loads, earning profitable revenue, gaining attraction with wide interational demographics and allow everyone to have an enjoyable and unique experience. Coordinating light-weight/lag-free services for as much players as possible (With approximately 5k unique players per version | 15+ versions from 2015-2024 & having approximately 400-500k views on Youtube Tutorials On Joining Minecraft Servers and indirect advertisement)
   - Website Projects:
-    - Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1)
-    - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main)
+    - Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1) | [Report](https://github.com/AxelTWC/DentistryWebsiteReport/blob/main/SEG3125%20Project%20Report%20300164095.pdf)
+    - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main) | [Report](https://github.com/AxelTWC/TechSupportWebsiteReport/blob/main/SEG3125%20Project%202%20Final%20Report%20300164095.pdf)
     - Back End Source Code: [eHotelWebApp](https://github.com/aghar11/CSI2132-eHotelsWebApp)
   - C# Projects:
     - [2D AimTrainer](https://github.com/AxelTWC/Side-Project---AimTrainer-Funny-version-)
