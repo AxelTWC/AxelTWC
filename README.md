@@ -68,6 +68,7 @@
     - AI Projects ( Include Later ) <-- Python Based
     - Information Retrieval Projects ( Include Later ) <-- Python Based and used PageRank Algorithms etc...
     - Software Architecture Projects ( Include Later ) <-- Java/Kotlin Based and used database technologies such as MongoDB etc...
+    - Quality Assurance Tools ( Include Later ) <-- All tools such as JUnit, Selenium, JHM...etc | Will also include Videos of my custom made Tutorials 
 - 👨‍💻 Want to Volunteer Work For Humblex?:
   - www.humblex.com
   - Current Opportunities:
