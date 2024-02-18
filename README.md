@@ -71,7 +71,7 @@
     - Quality Assurance Tools ( Include Later ) <-- All tools such as JUnit, Selenium, JHM...etc | Will also include Videos of my custom made Tutorials 
 
 # 👨‍💻 Want to Volunteer Work For Humblex?:
-  - Humblex Website [Click here to navigate](https://www.humblex.net)
+  - Humblex Website | [Click Here To Navigate](https://www.humblex.net)
   - Current Opportunities:
     ```js
          1. Enable Config Serialization for Armor Effects (Refer Issue in ArmorEffects Repo + Release to https://www.spigotmc.org/resources/ once finalized) 
