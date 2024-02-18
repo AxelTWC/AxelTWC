@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AxelTWC , Currently Undergrad in Honours Comp Sci
 - 👀 Interested in coding executatble applications and small/lightweight spigot plugins.
-- 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited 
+- 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited
+- 📝 Current Resume [Click here to view my resume](https://github.com/AxelTWC/Resume/blob/main/Axel-Tang_Resume.pdf)
 - 🌱 Knowledge: 
   - Currently Learning in professional manner (University):
      ```css
