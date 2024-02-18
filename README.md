@@ -69,8 +69,9 @@
     - Information Retrieval Projects ( Include Later ) <-- Python Based and used PageRank Algorithms etc...
     - Software Architecture Projects ( Include Later ) <-- Java/Kotlin Based and used database technologies such as MongoDB etc...
     - Quality Assurance Tools ( Include Later ) <-- All tools such as JUnit, Selenium, JHM...etc | Will also include Videos of my custom made Tutorials 
-- 👨‍💻 Want to Volunteer Work For Humblex?:
-  - www.humblex.com
+
+# 👨‍💻 Want to Volunteer Work For Humblex?:
+  - Humblex Website [Click here to navigate](https://www.humblex.net)
   - Current Opportunities:
     ```js
          1. Enable Config Serialization for Armor Effects (Refer Issue in ArmorEffects Repo + Release to https://www.spigotmc.org/resources/ once finalized) 
