@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @AxelTWC , Currently Undergrad in Honours Comp Sci
+# Welcome to my Github Profile !
+- 👋 Hi, I’m @AxelTWC , Currently Graduated in Honours Bachelor of Science in Faculty of Engineering - Specialization in Computer Science
 - 👀 Interested in coding executatble applications and small/lightweight spigot plugins.
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited
-- 📝 Current Resume [Click here to view my resume](https://github.com/AxelTWC/Resume/blob/main/Axel-Tang_Resume.pdf)
+- 📝 Current Resume --> [Click here to view my resume](https://github.com/AxelTWC/Resume/blob/main/Axel-Tang_Resume.pdf)
+
+# Descriptive Layout of all SkillSets and Projects
+
 - 🌱 Knowledge: 
   - Currently Learning in professional manner (University):
      ```css
@@ -60,7 +64,10 @@
     - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects)
     - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration)
     - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp) | Mostly on UML Diagrams and Validation
-    - Golang,Scheme,Prolog [Projects](https://github.com/AxelTWC/GoLangSchemeProlog) 
+    - Golang,Scheme,Prolog [Projects](https://github.com/AxelTWC/GoLangSchemeProlog)
+    - AI Projects ( Include Later ) <-- Python Based
+    - Information Retrieval Projects ( Include Later ) <-- Python Based and used PageRank Algorithms etc...
+    - Software Architecture Projects ( Include Later ) <-- Java/Kotlin Based and used database technologies such as MongoDB etc...
 - 👨‍💻 Want to Volunteer Work For Humblex?:
   - www.humblex.com
   - Current Opportunities:
