@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @AxelTWC , Currently Graduated in Honours Bachelor of Science in Faculty of Engineering - Specialization in Computer Science
 - 👀 Interested in coding executatble applications and small/lightweight spigot plugins.
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited
-- 📝 Current Resume --> [Click here to view my resume](https://github.com/AxelTWC/Resume/blob/main/AxelTang-Resume.pdf) | My resume does not reflect what I've done , interested folks could take a look below on what I've done previously
+- 📝 Current Resume --> [Click here to view my resume](https://axeltwc.github.io/AxelTang-Resume.pdf) | My resume does not reflect what I've done , interested folks could take a look below on what I've done previously
 
 # Descriptive Layout of all SkillSets and Projects
 
