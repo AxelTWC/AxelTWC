@@ -64,11 +64,11 @@
     - [2D AimTrainer](https://github.com/AxelTWC/Side-Project---AimTrainer-Funny-version-)
     - [TeaTimer](https://github.com/AxelTWC/C---teaTimer)
     - [MathQuiz](https://github.com/AxelTWC/C---mathQuiz)
-  - Smaller Contributions & LightWeight Projects worked on:
+  - Smaller Contributions & LightWeight Projects & Medium Scale Projects worked on:
     - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects) | Open Source Humblex Plugin
     - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration) | Open Source Humblex Plugin
     - [Student Course Booking Android Application](https://github.com/AxelTWC/StudentCourseBookingApp/tree/master) | Mostly on UML Diagrams and Validation
-    - Golang,Scheme,Prolog [Projects](https://github.com/AxelTWC/GoLangSchemeProlog)
+    - RANSAC Algorithm (Java,Golang,Scheme,Prolog) [Projects](https://github.com/AxelTWC/RANSAC-Algo-Project)
     - AI Projects [Click here](https://github.com/AxelTWC/NP-and-DL-Project) <-- Python Based
     - Information Retrieval Projects [Click here](https://github.com/AxelTWC/IR-System-Project) <-- Python Based and used PageRank Algorithms etc...
     - Software Architecture Projects (Angular) [Click here](https://github.com/AxelTWC/Angular-Shopping-Cart)
