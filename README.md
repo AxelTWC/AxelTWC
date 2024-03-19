@@ -69,9 +69,10 @@
     - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration) | Open Source Humblex Plugin
     - [Student Course Booking Android Application](https://github.com/AxelTWC/StudentCourseBookingApp/tree/master) | Mostly on UML Diagrams and Validation
     - Golang,Scheme,Prolog [Projects](https://github.com/AxelTWC/GoLangSchemeProlog)
-    - AI Projects ( Include Later ) <-- Python Based
-    - Information Retrieval Projects ( Include Later ) <-- Python Based and used PageRank Algorithms etc...
-    - Software Architecture Projects ( Include Later ) <-- Java/Kotlin Based and used database technologies such as MongoDB etc...
+    - AI Projects [Click here](https://github.com/AxelTWC/NP-and-DL-Project) <-- Python Based
+    - Information Retrieval Projects [Click here](https://github.com/AxelTWC/IR-System-Project) <-- Python Based and used PageRank Algorithms etc...
+    - Software Architecture Projects (Angular) [Click here](https://github.com/AxelTWC/Angular-Shopping-Cart)
+    - Software Architecture Projects (GraphQL, TypeScript, Kotlin, HTML, CSS) [Click here](https://github.com/AxelTWC/GraphQL-Small-Project) 
     - Quality Assurance Tools ( Include Later ) <-- All tools such as JUnit, Selenium, JHM...etc | Will also include Videos of my custom made Tutorials 
 
 # 👨‍💻 Want to Volunteer Work For Humblex?:
