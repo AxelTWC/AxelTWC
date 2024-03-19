@@ -67,7 +67,7 @@
   - Smaller Contributions & LightWeight Projects worked on:
     - [ArmorEffects](https://github.com/AxelTWC/ArmorEffects) | Open Source Humblex Plugin
     - [BedRegeneration](https://github.com/AxelTWC/BedRegeneration) | Open Source Humblex Plugin
-    - [Student Course Booking Android Application](https://github.com/Demerak/StudentCourseBookingApp) | Mostly on UML Diagrams and Validation
+    - [Student Course Booking Android Application](https://github.com/AxelTWC/StudentCourseBookingApp/tree/master) | Mostly on UML Diagrams and Validation
     - Golang,Scheme,Prolog [Projects](https://github.com/AxelTWC/GoLangSchemeProlog)
     - AI Projects ( Include Later ) <-- Python Based
     - Information Retrieval Projects ( Include Later ) <-- Python Based and used PageRank Algorithms etc...
