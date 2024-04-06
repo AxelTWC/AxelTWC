@@ -43,7 +43,8 @@
       - [Umple Assigned Tasks <-- Click here to view my contributions](https://github.com/umple/umple/issues?q=involves%3AAxelTWC+sort%3Acreated-asc+)
       - [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
     - Description:
-      - Umple is an innovative programming language developed by Timothy Lethbridge to bridge the gap between modelling and programming, addressing challenges often faced in model-driven development. Used by over 1.77 million users and executed over 11 million commands, was originally listed in UCOSP and cooperated with many American Universities. I was interested in the continuation and development for Umple's Compiler and its webpage interface UmpleOnline, engineering for new solutions in large scale softwares, participated in fixing crucial bugs and created new tools for future windows developers.
+      - Umple is an innovative programming language developed by Timothy Lethbridge to bridge the gap between modelling and programming, addressing challenges often faced in model-driven development.
+      - Used by over **1.77 million users and executed over 11 million commands by Dec 2023**, was originally listed in UCOSP and cooperated with many American Universities. I was interested in the continuation and development for Umple's Compiler and its webpage interface UmpleOnline, engineering for new solutions in large scale softwares, participated in fixing crucial bugs and created new tools for future windows developers.
    
   - *Minecraft Server Owner | Core Development + Plugin Configurator (Serving Publicly with 10-50k Players Over Span of 7 years):
     - Role:
@@ -55,7 +56,8 @@
       - [@Video_Trailer](https://www.youtube.com/watch?v=CWIEHURiz9s)
       - [Old Enjin Website](https://web.archive.org/web/20230425232005/https://humblex.enjin.com/members)
     - Description:
-      - A Side Project/Hustle that I've been doing for years and got me into development. At 14 y.o , from trying to reuniting communities from other servers to learning how to manage and balance server loads, earning profitable revenue, gaining attraction with wide interational demographics and allow everyone to have an enjoyable and unique experience. Coordinating light-weight/lag-free services for as much players as possible (With approximately 5k unique players per version | 15+ versions from 2015-2024 & having approximately 400-500k views on Youtube Tutorials On Joining Minecraft Servers and indirect advertisement)
+      - A Side Project/Hustle that I've been doing for years and got me into development. At 14 y.o , from trying to reuniting communities from other servers to learning how to manage and balance server loads, earning profitable revenue, gaining attraction with wide interational demographics and allow everyone to have an enjoyable and unique experience.
+      - Coordinating light-weight/lag-free services for as much players as possible (With approximately 5k unique players per version | 15+ versions from 2015-2024 & having approximately 400-500k views on Youtube Tutorials On Joining Minecraft Servers and indirect advertisement)
   - Website Projects:
     - Link: [uODentistryWebsite](https://leafy-banoffee-abef26.netlify.app/) | Source Code: [Github](https://github.com/AxelTWC/uODentistryProject1) | [Report](https://github.com/AxelTWC/DentistryWebsiteReport/blob/main/SEG3125%20Project%20Report%20300164095.pdf)
     - Link: [TechSupportReactWebsite](https://humblexservertemp.github.io/) | Source Code: [Github](https://github.com/HumblexServerTemp/humblexservertemp.github.io/tree/main) | [Report](https://github.com/AxelTWC/TechSupportWebsiteReport/blob/main/SEG3125%20Project%202%20Final%20Report%20300164095.pdf)
