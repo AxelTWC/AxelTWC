@@ -44,7 +44,7 @@
       - [@License](https://github.com/umple/umple/blob/master/LICENSE.md)
     - Description:
       - Umple is an innovative programming language developed by Timothy Lethbridge to bridge the gap between modelling and programming, addressing challenges often faced in model-driven development.
-      - Used by over **1.77 million users and executed over 11 million commands by Dec 2023**, was originally listed in UCOSP and cooperated with many American Universities. I was interested in the continuation and development for Umple's Compiler and its webpage interface UmpleOnline, engineering for new solutions in large scale softwares, participated in fixing crucial bugs and created new tools for future windows developers.
+      - Used by over **1.77 million users and executed over 11 million commands by Dec 2023**, was originally listed in UCOSP and cooperated with many Universities. I was interested in the continuation and development for Umple's Compiler and its webpage interface UmpleOnline, engineering for new solutions in large scale softwares, participated in fixing crucial bugs and created new tools for future windows developers.
    
   - *Minecraft Server Owner | Core Development + Plugin Configurator (Serving Publicly with 10-50k Players Over Span of 7 years):
     - Role:
