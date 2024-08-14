@@ -92,8 +92,6 @@
     - [Issue 1](https://github.com/AxelTWC/ArmorEffects/issues)
     - [Issue 3](https://github.com/AxelTWC/BedRegeneration/issues)
 
-[![Test's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelTWC)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 AxelTWC/AxelTWC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
