@@ -1,10 +1,9 @@
 # Welcome to my Github Profile !
 - 👋 Hi, I’m @AxelTWC , Currently Graduated in Honours Bachelor of Science in Faculty of Engineering - Specialization in Computer Science
 - 👀 Interested in coding executatble applications and small/lightweight spigot plugins since 2014.
-- 💞️ I’m looking to collaborate on anything really! As long as it is fun :) However my coding skills might be limited
-
+- 💞️ I’m looking to collaborate on anything really! As long as it is fun :)
+  
 # HyperLinks
-- 📝 Current Resume --> [Click here to view my resume](https://axeltwc.github.io/AxelTang-Resume.pdf) | My resume does not reflect what I've done , look below for previously work
 - 🌐 Current Website --> [Click here to view my Website](https://axeltwc.github.io/)
 - 💼 Current Linkedln --> [Click here to view my Linkedln](https://www.linkedin.com/in/axel-tang-2b22572b6/)
   
