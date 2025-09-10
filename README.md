@@ -1,5 +1,6 @@
 # Welcome to my Github Profile !
-- 👋 Hi, I’m @AxelTWC , Currently Graduated in Honours Bachelor of Science in Faculty of Engineering - Specialization in Computer Science
+- 👋 Hi, I’m @AxelTWC , Long Story Short: I fast track graduated from uOttawa in HBSc in Comp Sci for financial reasons, 2 years later , now doing Masters in UofToronto under DA/ML Stream.
+- 👀 Interested in learning new things in AI/ML Field , looking for opportunities.
 - 👀 Interested in coding executatble applications and small/lightweight spigot plugins since 2014.
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :)
   
@@ -7,7 +8,7 @@
 - 🌐 Current Website --> [Click here to view my Website](https://axeltwc.github.io/)
 - 💼 Current Linkedln --> [Click here to view my Linkedln](https://www.linkedin.com/in/axel-tang-2b22572b6/)
   
-# Descriptive Layout of all SkillSets and Projects
+# Descriptive Layout of all Previous SkillSets and Projects from a Software Background
 
 - 🌱 Knowledge: 
   - Currently Learning in professional manner (University):
