@@ -1,6 +1,6 @@
 # Welcome to my Github Profile !
-- 👋 Hi, I’m @AxelTWC , Long Story Short: I fast track graduated from uOttawa in HBSc in Comp Sci for financial reasons, 2 years later , now doing Masters in UofToronto under DA/ML Stream.
-- 👀 Interested in learning new things in AI/ML Field , looking for opportunities.
+- 👋 Hi, I’m @AxelTWC , Long Story Short: Studied in Canada since youth , was one of the top students in High School, got in a bit of trouble with financial pressure, I fast track graduated from uOttawa in HBSc in Comp Sci, 2 years later , now doing Masters in UofToronto under DA/ML Stream.
+- 👀 Interested in learning new things in AI/ML Field , looking for opportunities such as AI/ML Interships , Data Roles are also considerable for me .
 - 👀 Interested in coding executatble applications and small/lightweight spigot plugins since 2014.
 - 💞️ I’m looking to collaborate on anything really! As long as it is fun :)
   
