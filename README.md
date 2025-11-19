@@ -1,6 +1,6 @@
-# 🌟 Axel Tang — Machine Learning / Deep Learning Engineer
+# 🌟 Axel Tang — Machine Learning / Deep Learning 
 <p align="center">
-<img width="1024" height="1024" alt="998f493f-f4b8-4868-947f-21c35340e54d" src="https://github.com/user-attachments/assets/29a21839-35a0-4990-871a-7230edfa4964" /> </p>
+<img width="512" height="512" alt="998f493f-f4b8-4868-947f-21c35340e54d" src="https://github.com/user-attachments/assets/29a21839-35a0-4990-871a-7230edfa4964" /> </p>
 
 ## 👋 Welcome! I'm Axel (@AxelTWC)
 
