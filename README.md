@@ -21,7 +21,7 @@ I design intelligent systems, build real production software, and love transform
 - HBSc Computer Science — Fast-Track - University of Ottawa
   
 # 🧑‍💼 AI Internship:
-- Testing around with LLMWiki and implementation
+- Research LLMWiki and implementation
 - Benchmarking RAG solutions w/ standard industrialized metrics 
   
 # 💼 Links
