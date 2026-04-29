@@ -9,7 +9,7 @@
 - Master of Engineering (University of Toronto) — AI/ML Stream
 - HBSc Computer Science (University of Ottawa) — Fast-track graduate
 
-I design intelligent systems, build real production software, and love transforming ideas into scalable apps.
+I like robots
 
 # 🧠 Core Focus 
 - Machine Learning & Deep Learning
