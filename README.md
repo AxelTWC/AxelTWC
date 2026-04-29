@@ -19,7 +19,11 @@ I design intelligent systems, build real production software, and love transform
 
 - Master of Engineering — AI/ML - University of Toronto
 - HBSc Computer Science — Fast-Track - University of Ottawa
-
+  
+# 🧑‍💼 AI Internship:
+- Testing around with LLMWiki and implementation
+- Benchmarking RAG solutions w/ standard industrialized metrics 
+  
 # 💼 Links
 - 🌐 Website: https://axeltang.me
 - 🔗 LinkedIn: linkedin.com/in/axel-tang-2b22572b6/
